@@ -1,7 +1,7 @@
 # Insertion Sort Projesi
-
+---
 Bu bir [patika.dev](www.patika.dev) projesidir.
-
+```
 [22,27,16,2,18,6] -> Videoda sehven insertin sort yerine selection sort anlatılmıştır. Aşağıdaki örnek insertion sort ile yapılmıştır.
 
 1- Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
@@ -31,3 +31,4 @@ Average Case : O(n²)
 2. aşama =[3,7,5,8,2,9,4,15,6]
 3. aşama =[3,5,7,8,2,9,4,15,6]
 4. aşama =[3,5,7,8,2,9,4,15,6]
+```
